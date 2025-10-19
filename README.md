@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zen0bit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zen0bit&theme=modern-lilac" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=zen0bit&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is zenobit<br><br>I'm a open source fanatic.</h2>
@@ -126,9 +118,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/zen0bit/zen0bit/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zen0bit&theme=modern-lilac" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=zen0bit&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -151,7 +143,7 @@
 
 <br clear="both">
 
-<p align="left">https://osowoso.github.io</p>
+<p align="left">https://osowoso.org</p>
 
 ###
 
@@ -160,5 +152,7 @@
 <div align="right">
   <img height="200" src="https://yt3.ggpht.com/LlJJ8Z-H-3MX7td73ZWTFCwplqhxuSoDYuYtN1yZwOBMqtFReEfEvX_CkPI0PGbrmxIQSSp-=s600-c-k-c0x00ffffff-no-rj-rp-mo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/zen0bit/zen0bit/output/snake.svg" alt="Snake animation" />
 
 ###
